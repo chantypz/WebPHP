@@ -1,2 +1,3 @@
- 
-<?php phpinfo();?> 
+<?php
+echo "Bienvenue Chanty";
+?>
